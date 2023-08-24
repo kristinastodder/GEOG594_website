@@ -1,5 +1,5 @@
 # Dataset
-## From the awesome-datascience Github, I chose to look at datasets listed on data.gov and ultimately chose the Daily Global 5km Satellite Sea Surface Temperature Anomaly dataset (https://coralreefwatch.noaa.gov/product/5km/index_5km_ssta.php) 
+## From the awesome-datascience Github, I chose to look at datasets listed on data.gov and ultimately chose the Daily Global 5km Satellite Sea Surface Temperature Anomaly dataset (https://coralreefwatch.noaa.gov/product/5km/index_5km_ssta.php). 
 ## This dataset contains sea surface temperature (SST) anomalies (difference from normal) for global sea surface termperatures.
 ## This dataset can be used to monitor global SST trends and identify threats to temperature-sensative marine life (like corals). It can also be used to identify major marine heatwave events and track the developemnt of El Nino. 
 
